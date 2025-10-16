@@ -3,7 +3,7 @@
 
    
 
-     "ShowAds": false,
+     "ShowAds": true,
      "ClickCount": 1,
      "ShowLoadingAds": true,
 
@@ -14,9 +14,9 @@
 
   
     
-    "MaxBanner": "d7e5387a22cc8044",
-    "MaxNative": "5534d47212ed8e80",
-    "MaxInterstitial": "269d73adeea133fb",
+    "MaxBanner": "869a8ece6adfa468",
+    "MaxNative": "b9e2b3271b8e20e8",
+    "MaxInterstitial": "f4d48dde77a60d72",
    
     
 
