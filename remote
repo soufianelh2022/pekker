@@ -1,0 +1,10 @@
+{
+  "bannerId": "YOUR_APPLOVIN_BANNER_AD_UNIT_ID",
+  "interstitialId": "YOUR_APPLOVIN_INTERSTITIAL_AD_UNIT_ID",
+  "appOpenId": "YOUR_APPLOVIN_APP_OPEN_AD_UNIT_ID",
+  "nativeId": "YOUR_APPLOVIN_NATIVE_AD_UNIT_ID",
+  "rewardedId": "YOUR_APPLOVIN_REWARDED_AD_UNIT_ID",
+  "interstitialIntervalMs": 60000,
+  "appOpenMinBackgroundMs": 30000,
+  "maxPeeksBeforeLock": 5
+}
