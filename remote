@@ -1,10 +1,10 @@
 {
-  "bannerId": "YOUR_APPLOVIN_BANNER_AD_UNIT_ID",
-  "interstitialId": "YOUR_APPLOVIN_INTERSTITIAL_AD_UNIT_ID",
-  "appOpenId": "YOUR_APPLOVIN_APP_OPEN_AD_UNIT_ID",
-  "nativeId": "YOUR_APPLOVIN_NATIVE_AD_UNIT_ID",
-  "rewardedId": "YOUR_APPLOVIN_REWARDED_AD_UNIT_ID",
+  "bannerId": "2c9ca5599a81bea4",
+  "interstitialId": "0229ecebd546c40d",
+  "appOpenId": "4d58fddcaa6db5c1",
+  "nativeId": "f1659898c3c39960",
+  "rewardedId": "2fb36b0f2923dc54",
   "interstitialIntervalMs": 60000,
   "appOpenMinBackgroundMs": 30000,
-  "maxPeeksBeforeLock": 5
+  "maxPeeksBeforeLock": 1
 }
