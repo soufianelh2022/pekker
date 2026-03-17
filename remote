@@ -7,5 +7,5 @@
     "interstitialIntervalMs": 60000,
     "appOpenMinBackgroundMs": 30000,
     "maxPeeksBeforeLock": 5,
-    "iap_enabled": false
+    "iap_enabled": true
 }
